@@ -1,2 +1,2 @@
 # SQL
-SQL Code Snippets tackling variousissues
+SQL Code Snippets tackling various issues
